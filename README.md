@@ -22,8 +22,12 @@ python manage.py runserver
 ### Dashboard
 ![Capture](https://user-images.githubusercontent.com/62230387/90967514-0e560580-e495-11ea-8a62-f987b5702cf0.PNG)
 
+### Login
+![Capture1](https://user-images.githubusercontent.com/62230387/90967540-5ffe9000-e495-11ea-9031-f7d15eff437d.PNG)
+
 ### Admin
-![Screenshot](Capture1.png)
+![Capture3](https://user-images.githubusercontent.com/62230387/90967539-5f65f980-e495-11ea-9d89-f63280ece422.PNG)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
