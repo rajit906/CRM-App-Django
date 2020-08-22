@@ -20,7 +20,7 @@ This next script allows you to run it on localhost:8000:
 python manage.py runserver
 ```
 ###Dashboard
-![alt text](https://github.com/[rajit906]/[CRM-App-Django]/blob/[src]/Capture.png?raw=true)
+https://github.com/rajit906/CRM-App-Django/blob/master/src/Capture.PNG
 
 ###Admin
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
