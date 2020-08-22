@@ -19,10 +19,10 @@ This next script allows you to run it on localhost:8000:
 ```bash
 python manage.py runserver
 ```
-###Dashboard
+### Dashboard
 ![Capture](https://user-images.githubusercontent.com/62230387/90967514-0e560580-e495-11ea-8a62-f987b5702cf0.PNG)
 
-###Admin
+### Admin
 ![Screenshot](Capture1.png)
 
 ## License
