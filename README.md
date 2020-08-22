@@ -20,10 +20,10 @@ This next script allows you to run it on localhost:8000:
 python manage.py runserver
 ```
 ###Dashboard
-https://github.com/rajit906/CRM-App-Django/blob/master/src/Capture.PNG
+![Screenshot](Capture.png)
 
 ###Admin
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Screenshot](Capture1.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
