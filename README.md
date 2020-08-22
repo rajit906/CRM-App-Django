@@ -20,7 +20,7 @@ This next script allows you to run it on localhost:8000:
 python manage.py runserver
 ```
 ###Dashboard
-![Screenshot](Capture.png)
+![Capture](https://user-images.githubusercontent.com/62230387/90967514-0e560580-e495-11ea-8a62-f987b5702cf0.PNG)
 
 ###Admin
 ![Screenshot](Capture1.png)
