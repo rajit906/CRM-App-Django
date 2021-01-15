@@ -1,5 +1,5 @@
 # CRM-App-Django
-I had it up on rajitrajpal.herokuapp.com but I took it down due to an SQL injection attack that costed me some momey :/
+
 To use it on your system, run:
 ```bash
 pip install -r requirements.txt
